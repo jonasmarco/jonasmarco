@@ -2,7 +2,7 @@
 
 #### Hi there 👋, welcome to my space \o/
 
-Brazilian passionate about technology, I've been working as a Front-End developer since 2016. Today I'm working as a Frond-End and Back-End developer in building websites.
+Brazilian <img src="https://raw.githubusercontent.com/jonasmarco/jonasmarco/main/BR.svg"> passionate about technology, I've been working as a Front-End developer since 2016. Today I'm working as a Frond-End and Back-End developer in building websites.
 
 In constant evolution, I always seek to learn new technologies and accept new challenges. My goal is to one day make a living from my freelance work, working and traveling around the world.
 
