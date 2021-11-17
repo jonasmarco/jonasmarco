@@ -1,4 +1,4 @@
-# Jonas Marco <img src="https://raw.githubusercontent.com/jonasmarco/jonasmarco/main/BR.svg">
+# Jonas Tolentino <img src="https://raw.githubusercontent.com/jonasmarco/jonasmarco/main/BR.svg">
 
 #### Hi there 👋, welcome to my space \o/ 
 
