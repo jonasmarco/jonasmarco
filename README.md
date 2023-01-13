@@ -2,9 +2,11 @@
 
 #### Hi there 👋, welcome to my space \o/ 
 
-Brazilian passionate about technology, I've been working as a Front-End developer since 2016. Today I'm working as a Frond-End and Back-End developer in building websites.
+Brazilian and passionate about technology, graduated in Systems Analysis and Development from the Federal Institute of Paraná. I started my career as an intern in 2016 where I had my first contact with front-end. Since then I already have some experience in the area.
 
-In constant evolution, I always seek to learn new technologies and accept new challenges. My goal is to one day make a living from my freelance work, working and traveling around the world.
+My focus is to develop websites and applications for the real world, be it a landing page, mobile application or a large system, always focusing on the best possible delivery for the client.
+
+We know how volatile our area is, so I'm always acquiring new knowledge and accepting new challenges. My goal is to one day make a living from my freelance work, working and traveling around the world.
 
 Would you like to find me?
 
