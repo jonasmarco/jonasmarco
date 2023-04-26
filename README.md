@@ -1,14 +1,14 @@
 # Jonas Tolentino <img src="https://raw.githubusercontent.com/jonasmarco/jonasmarco/main/BR.svg">
 
-#### Hi there 👋, welcome to my space \o/ 
+#### Hi there 👋, welcome to my page \o/
 
-Brazilian and passionate about technology, graduated in Systems Analysis and Development from the Federal Institute of Paraná. I started my career as an intern in 2016 where I had my first contact with front-end. Since then I already have some experience in the area.
+I'm a Brazilian technology enthusiast, with a degree in Systems Analysis and Development from the Federal Institute of Paraná. I began my career as an intern in 2016, where I had my first contact with front-end development. Since then, I have gained some experience in the field.
 
-My focus is to develop websites and applications for the real world, be it a landing page, mobile application or a large system, always focusing on the best possible delivery for the client.
+My focus is on developing websites and applications for real-world scenarios, whether it's a landing page, mobile application, or a large-scale system, always striving for the best possible outcome for the client.
 
-We know how volatile our area is, so I'm always acquiring new knowledge and accepting new challenges. My goal is to one day make a living from my freelance work, working and traveling around the world.
+As we all know, our field is constantly evolving, so I'm always expanding my knowledge and welcoming new challenges. My ultimate goal is to one day make a living from my freelance work, working and traveling around the world.
 
-Would you like to find me?
+Do you want to get in touch with me?
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://br.linkedin.com/in/jonastolentino/)](https://br.linkedin.com/in/jonasmarco/)
 [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://wa.me/5543996612079/)](https://wa.me/5543996612079/)
