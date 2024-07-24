@@ -10,11 +10,11 @@ As we all know, our field is constantly evolving, so I'm always expanding my kno
 
 Do you want to get in touch with me?
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://br.linkedin.com/in/jonastolentino/)](https://br.linkedin.com/in/jonasmarco/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://br.linkedin.com/in/jonastolentino/)](https://www.linkedin.com/in/jonas-tolentino/)
 [![Gmail Badge](https://img.shields.io/badge/jonasmarco.ti@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:jonasmarco.ti@gmail.com)](mailto:jonasmarco.ti@gmail.com)
-[![Codepen Badge](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white&link=https://codepen.io/jonasmarco/)](https://codepen.io/jonasmarco/)
-[![Behance Badge](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white&link=https://www.behance.net/jonasmarco)](https://www.behance.net/jonasmarco)
-[![Stack Overflow Badge](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/6582416/j-marco)](https://stackoverflow.com/users/6582416/j-marco)
+[![Codepen Badge](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white&link=https://codepen.io/jonasmarco/)](https://codepen.io/jonastolentino)
+[![Behance Badge](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white&link=https://www.behance.net/jonasmarco)](https://www.behance.net/jonastolentino)
+[![Stack Overflow Badge](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/6582416/j-marco)](https://stackoverflow.com/users/6582416/jonas-tolentino)
 
 ____
 
